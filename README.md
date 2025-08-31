@@ -43,6 +43,5 @@ We use **data-driven analysis, visualizations, and statistical comparisons** to 
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/your-username/nba-evolution.git
-   cd nba-evolution
-2 Download the data sets from: https://www.kaggle.com/datasets/wyattowalsh/basketball
+   git clone https://github.com/dimataa1/Evolution-of-the-NBA
+2 Download the data sets from: https://www.kaggle.com/datasets/eoinamoore/historical-nba-data-and-player-box-scores)
